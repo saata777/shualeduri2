@@ -1,0 +1,845 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 90rem;
+    /* height: 116.875rem; */
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ gap: 3rem;
+ padding: 3rem;
+}
+
+ 
+.meore {
+    display: flex;
+    flex-direction: row;
+    gap: 9rem;
+    align-items: center;
+}
+
+.meoreswarwerebi {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.xooo {
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    align-items: center;
+}
+.mesame {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 7rem;
+}
+
+.meotxe {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+.tabletistvis {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.qveda {
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+    align-items: center;
+}
+.zeda {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.pirveli {
+    display: flex;
+    flex-direction: row;
+    gap: 55rem;
+}
+
+.mesamesfotoebi {
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+}
+
+.item {
+    flex-direction: column;
+    display: flex;
+    gap: 3rem;
+}
+
+.fotomeotxes {
+    width: 4rem;
+    height: 4rem;
+}
+
+.mesameswarwerebi {
+display: flex;
+flex-direction: column;
+gap: 27px;
+}
+
+.batoni1  {
+    width: 10.9375rem;
+    height: 3.625rem;
+    border-radius: 0.5rem;
+background: #E8EFF2;
+border: none;
+color: #162542;
+font-family: Barlow;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 162.5% */
+text-transform: uppercase;
+
+}
+.batoni2 {
+    width: 10.9375rem;
+    height: 3.625rem;
+border-radius: 0.5rem;
+background: #F16718;
+color: white;
+border: none;
+color: #FFF;
+font-family: Barlow;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 162.5% */
+text-transform: uppercase;
+}
+
+.zedasfoto {
+    width: 2.5rem;
+height: 2.5rem;
+}
+.mesame1 {
+   background-color:#F16718 ;
+}
+.foto {
+    border-radius: 1rem;
+}
+.meores1 {
+    color: #162542;
+    font-family: Barlow;
+    font-size: 3.5rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 3.5rem; /* 100% */
+    text-transform: uppercase;
+}
+.meoresp {
+    color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem; /* 144.444% */
+}
+.mesames2 {
+    color: #162542;
+    font-family: Barlow;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 2.25rem; /* 112.5% */
+    text-transform: uppercase;
+}
+.mesamesp {
+    color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem; /* 162.5% */
+}
+.warweradidi {
+    color: #162542;
+    font-family: Barlow;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.75rem; /* 116.667% */
+    text-transform: uppercase;
+}
+.warwerapatara {
+    color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem; /* 162.5% */
+}
+.ubralodp {
+    color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+}
+.pteg {
+    color: #7B8BAD;
+font-family: Barlow;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 162.5% */
+text-transform: uppercase;
+}
+.batoni2 :hover {
+    width: 10.9375rem;
+    height: 3.625rem;
+border-radius: 0.5rem;
+background: #FF9B62;
+color: white;
+border: none;
+color: #FFF;
+font-family: Barlow;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 162.5% */
+text-transform: uppercase;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.batoni1 :hover {
+    width: 10.9375rem;
+    height: 3.625rem;
+    border-radius: 0.5rem;
+    background: #162542;
+border: none;
+color: #FFF;
+font-family: Barlow;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 162.5% */
+text-transform: uppercase;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.tabletis {
+    display: none;
+}
+.phone {
+    display: none;
+}
+.pc {
+    display: flex;
+}
+
+
+@media (max-width: 768px) {
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    body {
+        width: 100%;
+        /* height: 100vh; */
+        background: #FFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .container {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     gap: 2rem;
+     padding: 0rem;
+    }
+     
+    .meore {
+        display: flex;
+        flex-direction: row;
+        gap: 1px;
+        align-items: center;
+    }
+    .mtl {
+ 
+position:relative;
+max-width: 100%;
+overflow:visible;
+height: 450px;
+object-fit: cover;
+    }
+    
+    .meoreswarwerebi {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        margin: 45px;
+        width: 375px;
+    }
+
+    .mesameswarwerebi{
+    display: flex; 
+    flex-direction: row;
+    gap: 7rem; }
+
+    .xooo {
+        display: flex;
+        flex-direction: row;
+        gap: 32px;
+        align-items: center;
+    }
+    .mesame {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4rem;
+    }
+    
+    .meotxe {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+    .qveda {
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+        align-items: center;
+        padding: 50px 50px;;
+    }
+    .zeda {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        width: 777px;
+    }
+    
+    .pirveli {
+        display: flex;
+        flex-direction: row;
+        gap: 475px;
+        align-items: center;
+        height: 125px;
+        justify-content: center;
+       
+        padding: 50px 1px;
+    }
+    
+    .mesamesfotoebi {
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+    }
+    
+    .item {
+        flex-direction: column;
+        display: flex;
+        gap: 2rem;
+    }
+    
+    .fotomeotxes {
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .batoni1  {
+        width: 10.9375rem;
+        height: 3.625rem;
+        border-radius: 0.5rem;
+    background: #E8EFF2;
+    border: none;
+    color: #162542;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    
+    }
+    .batoni2 {
+        width: 10.9375rem;
+        height: 3.625rem;
+    border-radius: 0.5rem;
+    background: #F16718;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    }
+    
+    .zedasfoto {
+        width: 2.5rem;
+    height: 2.5rem;
+    }
+    .mesame1 {
+       background-color:#F16718 ;
+    }
+    .foto {
+        border-radius: 1rem;
+    }
+    .meores1 {
+        color: #162542;
+        font-family: Barlow;
+        font-size: 2.8rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 3rem; /* 100% */
+        text-transform: uppercase;
+    }
+    .meoresp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 144.444% */
+    }
+    .mesames2 {
+        color: #162542;
+        font-family: Barlow;
+        font-size: 1.7rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 2.25rem; /* 112.5% */
+        text-transform: uppercase;
+    }
+    .mesamesp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 162.5% */
+    }
+    .warweradidi {
+        color: #162542;
+        font-family: Barlow;
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 1.75rem; /* 116.667% */
+        text-transform: uppercase;
+    }
+    .warwerapatara {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 162.5% */
+    }
+    .ubralodp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem;
+        width: 272px;
+position: relative;
+font-size: 16px;
+
+    }
+    .pteg {
+        color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    }
+    .batoni2 :hover {
+        width: 10.9375rem;
+        height: 3.625rem;
+    border-radius: 0.5rem;
+    background: #FF9B62;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .batoni1 :hover {
+        width: 10.9375rem;
+        height: 3.625rem;
+        border-radius: 0.5rem;
+        background: #162542;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .erti {
+        display: none;
+    }
+    .tabletis {
+        display: flex;
+    }
+    .pc {
+        display: none;
+    }
+    .tabletistvis {
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+        gap: 4rem;
+    }
+    .surati{
+        background-color: #ff5e00;
+    }
+    .phone {
+        display: none;
+    }
+    .pc {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    body {
+        width: 100%;
+        /* height: 100vh; */
+        background: #FFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .container {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     gap: 2rem;
+     /* height: 3007px; */
+     
+    }
+     
+    .meore {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        align-items: center;
+    }
+    .mtl {
+ 
+position:relative;
+max-width: 100%;
+overflow:visible;
+height: 450px;
+object-fit: cover;
+    }
+    
+    .meoreswarwerebi {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        margin: 45px;
+        width: 375px;
+        padding: 1rem;
+    }
+
+    .mesameswarwerebi{
+    display: flex; 
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center; 
+}
+
+    .xooo {
+        display: flex;
+        flex-direction: row;
+        gap: 32px;
+        align-items: center;
+    }
+    .mesame {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4rem;
+    }
+    
+    .meotxe {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+    .qveda {
+        display: flex;
+        flex-direction: column;
+        gap: 8rem;
+        align-items: center;
+        padding: 50px 50px;;
+    }
+    .zeda {
+        display: flex;
+        flex-direction: column;
+        width: 777px;
+    }
+    
+    .pirveli {
+        display: flex;
+        flex-direction: row;
+        gap: 136px;
+        align-items: center;
+        height: 125px;
+        justify-content: center;
+        padding: 0px 0px;
+    }
+    
+    .mesamesfotoebi {
+        display: flex;
+        flex-direction: row;
+        gap: 0rem;
+    }
+    
+    .item {
+        flex-direction: column;
+        display: flex;
+        gap: 2rem;
+        align-items: center;
+            width: 20.438rem;
+            color: #7b8bad;
+            text-align: center;
+            
+      
+      
+      
+    }
+    
+    .fotomeotxes {
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .batoni1  {
+        width: 150px;
+        height: 48px;
+        border-radius: 0.5rem;
+    background: #E8EFF2;
+    border: none;
+    color: #162542;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    
+    }
+    .batoni2 {
+        width: 10.9375rem;
+        height: 3.625rem;
+    border-radius: 0.5rem;
+    background: #F16718;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    }
+    
+    .zedasfoto {
+        width: 2.5rem;
+    height: 2.5rem;
+    }
+    .mesame1 {
+       background-color:#F16718 ;
+    }
+    .foto {
+        border-radius: 1rem;
+    }
+    .meores1 {
+        color: #162542;
+        font-family: Barlow;
+        font-size: 2.8rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 3rem; /* 100% */
+        text-transform: uppercase;
+    }
+    .meoresp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 144.444% */
+    }
+    .mesames2 {
+        width: 255px;
+        position: relative;
+        font-size: 32px;
+        line-height: 36px;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-family: Barlow;
+        color: #162542;
+        text-align: center;
+        display: inline-block;
+    }
+    .mesamesp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 162.5% */
+    }
+    .warweradidi {
+        color: #162542;
+        font-family: Barlow;
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 1.75rem; /* 116.667% */
+        text-transform: uppercase;
+    }
+    .warwerapatara {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem; /* 162.5% */
+    }
+    .ubralodp {
+        color: #7B8BAD;
+        font-family: Barlow;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.625rem;
+        width: 272px;
+position: relative;
+font-size: 16px;
+
+    }
+    .pteg {
+        color: #7B8BAD;
+    font-family: Barlow;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    }
+    .batoni2 :hover {
+        width: 10.9375rem;
+        height: 3.625rem;
+    border-radius: 0.5rem;
+    background: #FF9B62;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; /* 162.5% */
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .batoni1 :hover {
+        width: 10.9375rem;
+        height: 3.625rem;
+        border-radius: 0.5rem;
+        background: #162542;
+    border: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.625rem; 
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .erti {
+        display: none;
+    }
+    .tabletis {
+        display: none;
+    }
+    .pc {
+        display: none;
+    }
+    .tabletistvis {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        gap: 4rem;
+    }
+    .surati{
+        background-color: #ff5e00;
+    }
+    .phone {
+        display: flex;
+    }
+    .mobile3 {
+        margin: 0rem 2rem;
+    }
+    .mobile1 {
+           margin: 1rem 0rem 0rem 2rem;
+           border-radius: 1rem;
+}
+
+}
